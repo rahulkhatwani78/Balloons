@@ -1,0 +1,33 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: lightblue; 
+}
+
+#balloon
+{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+#play
+{
+	padding: 10px;
+	background-color: orange;
+	float: left;
+}
+
+#score
+{
+	text-align: center;
+}
+
+#newgame
+{
+	padding: 10px;
+	background-color: orange;
+	float: left;	
+	visibility: hidden;
+}
